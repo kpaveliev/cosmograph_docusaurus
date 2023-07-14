@@ -1,7 +1,5 @@
 # Title: A Day in the Life of Bitcoin Transactions: Unveiling the Hidden Patterns
 
-### Introduction
-
 Bitcoin, the world's leading cryptocurrency, operates on a decentralized network that enables anybody to access the data. We embarked on a fascinating project: visualizing a typical day of bitcoin transactions on a graph. In this blog post, we'll delve into the intriguing insights we uncovered, shedding light on the entities involved and their significance.
 
 ### Mapping a Typical Day of Bitcoin Transactions
@@ -29,3 +27,5 @@ Coin mixers, also known as tumblers, are services that aim to enhance privacy by
 Analyzing a day's worth of bitcoin transactions on a graph has provided us with a captivating glimpse into the dynamic nature of the cryptocurrency ecosystem. The visualization allowed us to identify key entities involved, comprehend the immense transaction volume, and uncover the prevalence of exchanges, dark market, and coin mixer-related addresses.
 
 We look forward to sharing more insights from our ongoing research endeavors. Stay tuned for further updates and deep dives into the fascinating world of cryptocurrencies and blockchain technology.
+
+PS. You can explore the interactive version of the graph [here](https://cosmograph.app/run/?data=https://cosmograph.app/data/each_10_txs_greater_5btc.csv&meta=https://cosmograph.app/data/common_spending_meta.csv) (note: it may take 2-3 minutes to fully load and it’’s better to open with Safari).
