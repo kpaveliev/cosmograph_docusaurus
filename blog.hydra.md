@@ -10,12 +10,12 @@ We selected randomly a p2p exchange and executed two transactions: a purchase an
 
 Our graph vividly represented the blockchain addresses related to the address that sold us bitcoin and the address that bought it back from us. Each node in the graph corresponded to a unique BTC address, while edges represented one or several transactions between these addresses. The visual portrayal provided a striking insight into the intricate flow of bitcoin transactions.
 
-![01 All graph (3)](https://github.com/kpaveliev/cosmograph_docusaurus/assets/6072307/3aef57e6-243b-47f1-8f5f-0250fdaaa7a0)
+![01 All graph (4)](https://github.com/kpaveliev/cosmograph_docusaurus/assets/6072307/25b3e1fa-620f-4971-b630-fab90cfbe639)
 *Pic 1: Graph Overview with the structures identified
 
 As we scrutinized the graph, we were taken aback by the revealing connections. The address that bought bitcoin from us turned out to be directly linked to the famous [Hydra Market](https://en.wikipedia.org/wiki/Hydra_Market), one of the largest dark markets in the world. The discovery added a layer of complexity and raised questions about the interplay between cryptocurrencies and illicit activities.
 
-![03 Buying address (2)](https://github.com/kpaveliev/cosmograph_docusaurus/assets/6072307/0293b2b2-b5cd-426b-a1a7-8e990585359e)
+![03 Buying address (2)](https://github.com/kpaveliev/cosmograph_docusaurus/assets/6072307/03a6c7d7-a59a-4cd4-b798-d6a8f5cfba7d)
 *Pic 2: Hydra
 
 Beyond the Hydra Market link, we discovered other intriguing structures just a few steps away. These connections involved prominent entities such as Binance, CoinDCX, and various peer-to-peer exchanges. The interconnectivity within the bitcoin network offered a glimpse into the vast web of transactions occurring within the cryptocurrency space.
