@@ -4,7 +4,7 @@
 
 1. [**One day of bitcoin transactions (ready)**](blog.one_day_transaction_case.md)
 2. Silk road case
-3. Tracing bitcoing purchase
+3. [**Tracing bitcoing purchase (ready)**](blog.hydra.md)
 4. Information is beautiful picture
 
 ### Use cases
