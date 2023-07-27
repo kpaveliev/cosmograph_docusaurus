@@ -10,4 +10,4 @@ Here's what we've got.
 
 ![A_Graph_of_London_Theatrical_Performances](https://github.com/kpaveliev/cosmograph_docusaurus/assets/6072307/876b1634-a80c-4896-b33d-7e66a1817198)
 ![A_Graph_of_London_Theatrical_Performances_1](https://github.com/kpaveliev/cosmograph_docusaurus/assets/6072307/ec9ecbf2-da6c-4851-b47e-b63a9a7701f3)
-https://github.com/kpaveliev/cosmograph_docusaurus/assets/6072307/03a56065-721b-4fb5-9281-da6f7a102155
+![Video](https://github.com/kpaveliev/cosmograph_docusaurus/assets/6072307/03a56065-721b-4fb5-9281-da6f7a102155)
